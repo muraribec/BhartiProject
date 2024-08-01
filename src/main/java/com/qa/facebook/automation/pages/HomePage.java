@@ -6,5 +6,10 @@ public class HomePage {
 		System.out.println("I am testing github repo");
 
 	}
+    
+    public void demo() {
+    	
+    }
+    
 
 }
